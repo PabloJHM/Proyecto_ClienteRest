@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Proyecto_ClienteRest</string>
+    <string name="profesor">Profesor</string>
+    <string name="tipo">Tipo de actividad</string>
+    <string name="lugarsalida">Lugar de salida</string>
+    <string name="lugarllegada">Lugar de llegada</string>
+    <string name="fechaS">Fecha y hora de salida</string>
+    <string name="fecharegreso">Fecha y hora de llegada</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="descripcion">Descripcion de la actividad</string>
+    <string name="nuevaActividad">Crear una nueva actividad</string>
+    <string name="noTime">0000-00-00 00:00</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="desde">Del</string>
+    <string name="hasta">hasta el</string>
+    <string name="prof">Id profesor: </string>
+    <string-array name="profs_array">
+        <item>Pilar</item>
+        <item>Carmelo</item>
+        <item>Jaime</item>
+        <item>Modesto</item>
+    </string-array>
+    <string-array name="tipo_array">
+        <item>Extraescolar</item>
+        <item>Complementaria</item>
+        <item>Excursion</item>
+    </string-array>
+</resources>
